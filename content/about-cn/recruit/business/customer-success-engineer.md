@@ -1,25 +1,13 @@
 ---
-title:  填写具体的职位名称
-tags: Business
-  - <!--填写对应职位的 tag -->
-<!-- 对应网页上的职位类型，现有的职位类型如下，如需新增/修改职位类型，需联系 `@yini` 进行修改
-	* Engineering：研发
-	* Business：商业
-	* UserEcosystem：UE（是否要更新）
-	* Product & Design：产品及设计
-	* I18N
-	* Campus
-	* Marketing（新增）
-	* General & Administrative-->
-location: San Mateo, Remote<!--填写对应职位的地点 -->
-avatar: <!--对应网页上的职位 icon，一般情况下不需要调整，新增职位的 avatar 可以先空着，由 `@yini` 帮忙确定-->
+
+title:  Customer Success Engineer
+tags: 
+  - Business
+location: San Mateo, Remote
+avatar: 
 position: true
-<!-- 
-别名，当职位的 url 变更时，需要再此处填上这个职位变更前的 url 路径，确保大家通过变更前的 url 也能获取到职位信息；一般新增职位不需要添加 aliases
---> 
 
 ---
-
 
 # Customer Success Engineer
 
@@ -38,9 +26,6 @@ Customer Success Engineers work at the intersection of our client services and e
 9. Bachelor’s degree in computer science strongly preferred;
 10. Willingness to travel to customer sites.
 
- 
-  <!-- 填充具体职位的信息 -->
-
 **What you will get to do:**
  
 1. Orchestrate the deployment and upgrades of the TiDB cluster both in the client’s private environments and in the cloud;
@@ -52,10 +37,6 @@ Facilitate upgrades, patches, maintenance, and operations of the cluster;
 6. Build required infrastructure to automate deployment pipeline;
 7. Deliver application level root-cause analysis, suggesting code optimization,s and assist with integrations;
 8. Coordinate enhancement and feature requests with product and engineering teams.
-
- 
- 
-  <!-- 填充具体职位的信息 -->
 
 **What you will gain:**
 
@@ -74,9 +55,6 @@ Facilitate upgrades, patches, maintenance, and operations of the cluster;
 13. Employee referral bonus program;
 14. Awesome, supportive coworkers with a good sense of humor.
 
-
-  <!-- 填充具体职位的信息 -->
-
 **Contact:**
 
 hire@pingcap.com
@@ -85,4 +63,3 @@ hire@pingcap.com
 
 San Mateo, Remote
 
-  <!-- 填充具体职位的信息 -->
