@@ -4,7 +4,7 @@ title:  Customer Success Engineer
 tags: 
   - Business
 location: San Mateo, Remote
-avatar: 
+avatar: business
 position: true
 
 ---
